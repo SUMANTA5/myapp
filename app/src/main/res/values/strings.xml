@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hellosumanta</string>
+    <string name="edit_message">enter a message</string>
+    <string name="button_lebel">send message</string>
+    <string name="welcome_message">welcome to message activity</string>
+    <string name="final_activity_message">Welcome to final Activity</string>
+    <string name="final_activity_button">Open Final Activity</string>
+</resources>
